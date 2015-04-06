@@ -7,5 +7,10 @@ Interesting facts about me, is that I have a 6 year old daughter who is currentl
 
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> programming-bio
 Programming Background: I have taken CS 161 and 162 as well as discrete mathematics and usability. Of all of the classes the usability class was my favorite.
 In addition, I am familiar with C++, a little bit of C and Python as well.
